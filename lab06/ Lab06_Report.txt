@@ -1,7 +1,7 @@
 ======================================================
 COE67-222 Operating Systems - Lab 06 Report
-Name: 
-Student ID: 
+Name: Naphat Paramas
+Student ID: 67103382
 ======================================================
 
 1. FIFO vs LRU (Phase 2):
